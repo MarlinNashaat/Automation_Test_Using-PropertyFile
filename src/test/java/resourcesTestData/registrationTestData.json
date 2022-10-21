@@ -1,0 +1,7 @@
+{
+  "fnameKey":"Mike",
+  "lnameKey": "jones",
+  "emailKey": "mike%s@gmail.com",
+  "passwordKey": "12345678",
+  "confirmPasswordKey": "12345678"
+}
